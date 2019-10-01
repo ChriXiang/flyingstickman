@@ -1,5 +1,9 @@
 # Flying Stickman Game
 
+* Project due date: 2019 June.
+* Enviroment: QT,C++
+* Demo can be found [here](https://youtu.be/0NFqZUU_7js).
+
 # STYLE GUIDE
 
 The style for this project is based on the Google [C++ style guide](https://google.github.io/styleguide/cppguide.html). There are some variations:
