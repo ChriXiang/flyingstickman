@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/background1/background.png</file>
+        <file>img/background1/first.png</file>
+        <file>img/background1/second.png</file>
+        <file>img/background1/third.png</file>
+        <file>img/background2/background.png</file>
+        <file>img/background2/first.png</file>
+        <file>img/background2/second.png</file>
+        <file>img/background2/third.png</file>
+        <file>img/stickman/frame1.png</file>
+        <file>img/stickman/frame2.png</file>
+        <file>img/stickman/frame3.png</file>
+        <file>img/stickman/frame4.png</file>
+        <file>img/stickman/frame5.png</file>
+        <file>img/stickman/frame6.png</file>
+        <file>img/stickman/frame7.png</file>
+        <file>img/stickman/frame8.png</file>
+        <file>img/stickman/frame9.png</file>
+        <file>sound/background_music.wav</file>
+        <file>config/config.txt</file>
+        <file>img/stickman/frame11.png</file>
+        <file>img/stickman/frame12.png</file>
+        <file>img/stickman/frame13.png</file>
+        <file>img/stickman/frame14.png</file>
+        <file>img/stickman/frame15.png</file>
+        <file>img/stickman/frame16.png</file>
+        <file>img/stickman/frame17.png</file>
+        <file>img/stickman/frame18.png</file>
+        <file>img/stickman/frame19.png</file>
+        <file>img/flag.png</file>
+        <file>img/coin.png</file>
+        <file>config/leader.txt</file>
+        <file>img/pu1.png</file>
+        <file>img/pu2.png</file>
+        <file>img/heart.png</file>
+    </qresource>
+</RCC>
